@@ -1,0 +1,51 @@
+<svg width="200" height="325" xmlns="http://www.w3.org/2000/svg" class="svg--1it" viewBox="0 0 1134 709">
+        <path d="M 10 10 H 500  Z" fill="transparent" stroke="magenta"></path>
+		<circle cx="100" cy="100" r="50" fill="transparent" stroke="magenta"></circle>
+		<circle cx="150" cy="150" r="5" fill="transparent" stroke="magenta"></circle>	
+
+		
+		 <g class="element--2qn">
+            <line stroke="#000000" stroke-dasharray="none" stroke-linecap="round" stroke-width="3" x1="641.0393700787412" x2="612.6929133858159" y1="121.7480314960598" y2="170.84553470274537"></line>
+        </g>
+        <g class="element--2qn">
+            <line stroke="#000000" stroke-dasharray="none" stroke-linecap="round" stroke-width="3" x1="612.6929133858159" x2="556" y1="170.84553470274537" y2="170.84553470274471"></line>
+        </g>
+        <g class="element--2qn">
+            <line stroke="#000000" stroke-dasharray="none" stroke-linecap="round" stroke-width="3" x1="556" x2="527.653543307086" y1="170.84553470274471" y2="121.74803149606169"></line>
+        </g>
+        <g class="element--2qn">
+            <line stroke="#000000" stroke-dasharray="none" stroke-linecap="round" stroke-width="3" x1="527.653543307086" x2="555.9999999999943" y1="121.74803149606169" y2="72.65052828938926"></line>
+        </g>
+        <g class="element--2qn">
+            <path d="M 555.9999999999943 72.65052828938924 A 56.69291338582042 56.69291338582042 0 0 0 470.9606299212656 121.74803149606169" fill="none" stroke="#000000" stroke-dasharray="none" stroke-linecap="round" stroke-width="3"></path>
+        </g>
+        <g class="element--2qn">
+            <path d="M 470.9606299212593 121.74803149606284 A 113.385826771653 113.385826771653 0 0 0 512.6125662863567 209.55802340946394" fill="none" stroke="#000000" stroke-dasharray="none" stroke-linecap="round" stroke-width="3"></path>
+        </g>
+        <g class="element--2qn">
+            <path d="M 512.6125662863573 209.55802340946326 A 25.51181102362355 25.51181102362355 0 0 1 521.9842519685047 229.31527158997977" fill="none" stroke="#000000" stroke-dasharray="none" stroke-linecap="round" stroke-width="3"></path>
+        </g>
+        <g class="element--2qn">
+            <path d="M 641.0393700787421 121.7480314960604 A 56.69291338584016 56.69291338584016 0 0 1 641.0393700787265 219.94303790943928" fill="none" stroke="#000000" stroke-dasharray="none" stroke-linecap="round" stroke-width="3"></path>
+        </g>
+        <g class="element--2qn">
+            <path d="M 641.0393700787192 219.94303790942752 A 113.38582677165316 113.38582677165316 0 0 1 609.8866520934187 232.21994707461738" fill="none" stroke="#000000" stroke-dasharray="none" stroke-linecap="round" stroke-width="3"></path>
+        </g>
+        <g class="element--2qn">
+            <path d="M 609.8866520934178 232.21994707461332 A 25.5118110236266 25.5118110236266 0 0 0 590.1213850349061 257.0761280797926" fill="none" stroke="#000000" stroke-dasharray="none" stroke-linecap="round" stroke-width="3"></path>
+        </g>
+        <g class="element--2qn">
+            <line stroke="#000000" stroke-dasharray="none" stroke-linecap="round" stroke-width="3" x1="521.9842519685033" x2="521.9842519685052" y1="229.31527158997977" y2="631.9842519685038"></line>
+        </g>
+        <g class="element--2qn">
+            <line stroke="#000000" stroke-dasharray="none" stroke-linecap="round" stroke-width="3" x1="590.0157480314948" x2="590.0157480314948" y1="257.0761280797926" y2="631.9842519685038"></line>
+        </g>
+        <g class="element--2qn">
+            <path d="M 590.0157480314948 631.9842519685038 A 34.01574803149481 34.01574803149481 0 0 1 521.9842519685052 631.9842519685038" fill="none" stroke="#000000" stroke-dasharray="none" stroke-linecap="round" stroke-width="3"></path>
+        </g>
+
+
+
+
+
+         </svg>
